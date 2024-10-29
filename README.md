@@ -1,2 +1,3 @@
 # terraform-google-identity
-Google Cloud Identity Terraform Module.
+
+Google Cloud Identity Module.
